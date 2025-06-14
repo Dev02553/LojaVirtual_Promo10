@@ -1,0 +1,4 @@
+livro,Biblia Sagrada,89.9
+eletronico,Bblia Digital,59.9
+eletronico,Call of Duty - A Arte da guerra,69.9
+alimento,pizza dominos,58.9
