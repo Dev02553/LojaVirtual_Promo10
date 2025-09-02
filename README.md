@@ -54,7 +54,7 @@ git clone https://github.com/seu-usuario/promo10.git
 
 Importe o projeto no seu IDE de preferência (Eclipse, IntelliJ, VS Code).
 
-Compile e rode o método main() para simular as operações.
+Compile e rode o método GUI() para simular as operações.
 
 👨‍💻 Autor
 
@@ -116,7 +116,7 @@ git clone https://github.com/your-username/promo10.git
 
 Import the project into your preferred IDE (Eclipse, IntelliJ, VS Code).
 
-Compile and run the main() method to simulate operations.
+Compile and run the GUI() method to simulate operations.
 
 👨‍💻 Author
 
